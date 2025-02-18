@@ -30,8 +30,9 @@ public class Input{
 	String str2= sc.nextLine();
 	System.out.print("With spaces : "+ str2);
 
-	
-
+	System.out.print("enter character : ");
+	char ch = sc.next().charAt(0);
+	System.out.print("enter character : ");
 	
 	}
 }
